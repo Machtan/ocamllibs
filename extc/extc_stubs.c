@@ -34,7 +34,7 @@
 #	include <stdio.h>
 #	include <sys/time.h>
 #	include <sys/times.h>
-#   include <sys/stat.h>
+#	include <sys/stat.h>
 #	include <caml/memory.h>
 #endif
 #ifdef __APPLE__
